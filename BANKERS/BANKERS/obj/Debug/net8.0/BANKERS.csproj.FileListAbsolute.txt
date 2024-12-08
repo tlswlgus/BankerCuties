@@ -1,0 +1,14 @@
+C:\Users\jihye\source\repos\BANKERS\BANKERS\bin\Debug\net8.0\BANKERS.exe
+C:\Users\jihye\source\repos\BANKERS\BANKERS\bin\Debug\net8.0\BANKERS.deps.json
+C:\Users\jihye\source\repos\BANKERS\BANKERS\bin\Debug\net8.0\BANKERS.runtimeconfig.json
+C:\Users\jihye\source\repos\BANKERS\BANKERS\bin\Debug\net8.0\BANKERS.dll
+C:\Users\jihye\source\repos\BANKERS\BANKERS\bin\Debug\net8.0\BANKERS.pdb
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.AssemblyInfoInputs.cache
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.AssemblyInfo.cs
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.csproj.CoreCompileInputs.cache
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.dll
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\refint\BANKERS.dll
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.pdb
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\BANKERS.genruntimeconfig.cache
+C:\Users\jihye\source\repos\BANKERS\BANKERS\obj\Debug\net8.0\ref\BANKERS.dll
